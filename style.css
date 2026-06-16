@@ -67,6 +67,7 @@ main {
   padding: var(--space-sm);
   padding-block-end: var(--space-lg);
   border-radius: 20px;
+  box-shadow: 0 25px 25px 0 rgba(0, 0, 0, 0.05);
 }
 
 .card-banner {
