@@ -91,3 +91,11 @@ main {
     margin-block-start: var(--space-sm);
   }
 }
+
+.card-title {
+  color: var(--slate-900);
+}
+
+.card-content {
+  color: var(--slate-500);
+}
